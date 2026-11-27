@@ -1,0 +1,6 @@
+{
+  "name": "StayGrid",
+  "description": "Interactive Hostel & PG Management platform with floor-by-floor 2D room builders, live Chart.js occupancy analytics, and predictive tenant discovery.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
